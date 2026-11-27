@@ -1,0 +1,57 @@
+{
+  "start": {
+    "key": "start",
+    "mode": "title",
+    "mission": "ring",
+    "camera": "chase",
+    "seed": 1,
+    "position": [330, 320, -1740],
+    "rotation": [-1.5, 0, 16],
+    "speed": 58,
+    "throttle": 0.78
+  },
+  "play": {
+    "key": "play",
+    "mode": "flying",
+    "mission": "ring",
+    "camera": "chase",
+    "seed": 1,
+    "position": [0, 258, -1540],
+    "rotation": [-1.5, 0, 14],
+    "speed": 58,
+    "throttle": 0.78
+  },
+  "cockpit": {
+    "key": "cockpit",
+    "mode": "flying",
+    "mission": "ring",
+    "camera": "chase",
+    "seed": 1,
+    "position": [-430, 336, -1830],
+    "rotation": [-2.5, 9, 20],
+    "speed": 56,
+    "throttle": 0.7
+  },
+  "title": {
+    "key": "title",
+    "mode": "title",
+    "mission": "ring",
+    "camera": "chase",
+    "seed": 1,
+    "position": [330, 320, -1740],
+    "rotation": [-1.5, 0, 16],
+    "speed": 58,
+    "throttle": 0.78
+  },
+  "end": {
+    "key": "end",
+    "mode": "flying",
+    "mission": "landing",
+    "camera": "chase",
+    "seed": 1,
+    "position": [0, 118, -660],
+    "rotation": [-2.5, 0, 0],
+    "speed": 46,
+    "throttle": 0.24
+  }
+}
